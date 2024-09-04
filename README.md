@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Frontend Frameworks
 - 💬 Ask me anything about Website Development
 - 📫 How to reach me: samich.job@gmail.com
-- 😄 My website: https://thetechbrothers.net
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
@@ -32,4 +31,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/codewithtopeprs)
+⭐️ From [codewithtoppers](https://github.com/codewithtopeprs)
